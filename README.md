@@ -1,3 +1,3 @@
 # travelSG
 
-add all the images into a folder name "images" before running the code
+A WebApp introducing the most authentic local experiences
